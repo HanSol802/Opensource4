@@ -18,10 +18,8 @@
 ---
 
 ## 3. 대표 그림
-- **개발 배경**
-- **예상 결과**
 
-![영상 인식 기반 보안 체계](path/to/image.png)  <!-- 이미지를 삽입하려면 경로를 수정하세요 -->
+![데이트 플래닝 앱의 대표 그림](images/date_planning_app_representative_image.png)
 
 ---
 
